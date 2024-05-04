@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=iamsunnyyz&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## ✍️ Leetcode Badges
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://leetcode-badge-showcase.vercel.app/api?username=iamsunnyyz&theme=dark&border=border))
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=iamsunnyyz" alt="LeetCode Badges"/>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iamsunnyyz) 
