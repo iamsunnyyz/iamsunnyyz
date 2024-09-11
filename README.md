@@ -1,3 +1,7 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
 <div align="right">
 <a href="https://visitcount.itsvg.in" target="_blank">
   <img src="https://visitcount.itsvg.in/api?id=iamsunnyyz&icon=0&color=6" target="_blank" />
@@ -39,7 +43,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ My Skills Includes ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,mongodb,postgres,tailwind" />  <br>
@@ -62,10 +66,10 @@
 <h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamsunnyyz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=iamsunnyyz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=550 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamsunnyyz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<!--   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=iamsunnyyz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamsunnyyz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamsunnyyz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
 
 <br/><br/>
